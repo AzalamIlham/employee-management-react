@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-management-react/static/css/main.ff02f4b5.css",
+    "main.js": "/employee-management-react/static/js/main.de19e065.js",
+    "static/js/453.98635461.chunk.js": "/employee-management-react/static/js/453.98635461.chunk.js",
+    "index.html": "/employee-management-react/index.html",
+    "main.ff02f4b5.css.map": "/employee-management-react/static/css/main.ff02f4b5.css.map",
+    "main.de19e065.js.map": "/employee-management-react/static/js/main.de19e065.js.map",
+    "453.98635461.chunk.js.map": "/employee-management-react/static/js/453.98635461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.de19e065.js"
+  ]
+}
